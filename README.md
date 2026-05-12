@@ -1,4 +1,3 @@
-# Telegram_Storage_Bot
 # ⚠该程序使用ai辅助开发⚠
 # ☁️ 清风网盘 - Telegram 文件储存机器人
 
