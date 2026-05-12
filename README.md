@@ -1,6 +1,7 @@
 If you are an English user :https://github.com/ssqls666/Telegram_Storage_Bot/blob/main/README_en.md
+源项目名为 “清风网盘” ，后更改为 Telegram_Storage_Bot
 # ⚠该程序使用ai辅助开发⚠
-# ☁️ 清风网盘 - Telegram 文件储存机器人
+# ☁️ Telegram_Storage_Bot - Telegram 文件储存机器人
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
