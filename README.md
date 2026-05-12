@@ -37,7 +37,7 @@ If you are an English user :https://github.com/ssqls666/Telegram_Storage_Bot/blo
   - 欢迎用户 + 当前时间
 
 - **设置页**  
-  - Proxy 代理配置（HTTP）  
+  - Proxy 代理配置（HTTP/SOCKS5/SOCKS4）  
   - 用户储存容量（全局默认 / 单独设置）  
   - 管理员列表管理  
   - 白名单/黑名单模式（游客使用权限）
