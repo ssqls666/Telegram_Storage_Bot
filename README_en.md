@@ -1,5 +1,5 @@
 # ⚠ This program is developed with AI assistance ⚠
-# ☁️ BreezeDrive - Telegram File Storage Bot
+# ☁️ Telegram_Storage_Bot - Telegram File Storage Bot
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
@@ -34,7 +34,7 @@
   - Welcome message + current time
 
 - **Settings Page**  
-  - Proxy configuration (HTTP)  
+  - Proxy configuration (HTTP/SOCKS5/SOCKS4)  
   - User storage capacity (global default / per-user settings)  
   - Admin list management  
   - Whitelist/Blacklist mode (guest access permissions)
