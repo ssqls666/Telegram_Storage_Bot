@@ -7,8 +7,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ssqls666/Telegram_Storage_Bot/pulls)
 
-> 一个功能完整的 Telegram 文件储存机器人，配有图形化管理面板，支持多用户、容量管理、上传/下载/查询，适合个人或小团队搭建私有网盘。
-
 ## 📸 界面预览
 
 | 仪表盘 | 机器人管理 | 设置页面 |
@@ -17,7 +15,6 @@
 | 实时流量曲线 | 用户硬盘使用排行 | 黑白名单模式 |
 | 容量使用监控 | 详细用量分布 | 用户容量分配 |
 
-> 支持自定义主题色、卡片布局、动画开关。
 
 ## ✨ 核心功能
 
@@ -25,11 +22,11 @@
 
 | 指令 | 说明 |
 |------|------|
-| `/s` 或 `/start` | 启动机器人，显示欢迎语、用户 ID、可用空间与已用空间 |
-| `/up` 或 `/update` | 上传文件（1分钟内发送文件） |
-| `/dl` 或 `/download` | 下载文件（通过文件 ID） |
+| `/s` 或 `/start` | 启动机器人 |
+| `/up` 或 `/update` | 上传文件 |
+| `/dl` 或 `/download` | 下载文件 |
 | `/q` 或 `/query` | 查询容量使用情况，列出所有文件 |
-| `/h` 或 `/help` | 显示帮助信息、作者、开源地址 |
+| `/h` 或 `/help` | 显示帮助信息 |
 
 ### 📊 图形化管理面板（GUI）
 
@@ -39,7 +36,7 @@
   - 欢迎用户 + 当前时间
 
 - **设置页**  
-  - Proxy 代理配置（HTTP/SOCKS5）  
+  - Proxy 代理配置（HTTP）  
   - 用户储存容量（全局默认 / 单独设置）  
   - 管理员列表管理  
   - 白名单/黑名单模式（游客使用权限）
