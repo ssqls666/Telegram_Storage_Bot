@@ -1,3 +1,4 @@
+If you are an English user :https://github.com/ssqls666/Telegram_Storage_Bot/blob/main/README_en.md
 # ⚠该程序使用ai辅助开发⚠
 # ☁️ 清风网盘 - Telegram 文件储存机器人
 
